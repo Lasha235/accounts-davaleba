@@ -20,4 +20,5 @@ class CustomUserChangeForm(UserChangeForm):
             'username',
             'email',
             'age',
+            'phone_number',
         )
