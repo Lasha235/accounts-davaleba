@@ -27,3 +27,5 @@ class CustomUserAdmin(UserAdmin):
 
 
 admin.site.register(CustomUser, CustomUserAdmin)
+
+# Mod password = Sendhelp123
