@@ -1,0 +1,12 @@
+asgiref
+black
+click
+crispy-bootstrap5
+Django
+django-crispy-forms
+mypy-extensions
+packaging
+pathspec
+platformdirs
+sqlparse
+python-dotenv
